@@ -15,8 +15,8 @@ categories:
 tags: []
 comments: []
 ---
-<p><a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;phy5ics&#47;4838036942&#47;" title="photo sharing"><img src="http:&#47;&#47;farm5.static.flickr.com&#47;4133&#47;4838036942_8d139f1e3a.jpg" style="border: solid 2px #000000;" alt="" &#47;></a>
-<&#47;p>
+<p><a href="http://www.flickr.com/photos/phy5ics/4838036942/" title="photo sharing"><img src="http://farm5.static.flickr.com/4133/4838036942_8d139f1e3a.jpg" style="border: solid 2px #000000;" alt="" /></a>
+</p>
 <p>
 Sausage and Peppers with Rigatoni. Tomato, Onion and Basil Salad.
-<&#47;p>
+</p>

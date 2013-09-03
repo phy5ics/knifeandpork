@@ -15,5 +15,5 @@ categories:
 tags: []
 comments: []
 ---
-<a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;phy5ics&#47;4847769321&#47;" title="L1010363 by phy5ics, on Flickr"><img src="http:&#47;&#47;farm5.static.flickr.com&#47;4108&#47;4847769321_e2cf6ef699.jpg" width="500" height="336" alt="L1010363" &#47;></a>
-<p>Brined, Cold-Smoked Chicken.  Asparagus with Miso Butter and Slow-Poached Egg.  Basmati Rice.  Quick-Pickled Kirby Cucumbers.<&#47;p>
+<a href="http://www.flickr.com/photos/phy5ics/4847769321/" title="L1010363 by phy5ics, on Flickr"><img src="http://farm5.static.flickr.com/4108/4847769321_e2cf6ef699.jpg" width="500" height="336" alt="L1010363" /></a>
+<p>Brined, Cold-Smoked Chicken.  Asparagus with Miso Butter and Slow-Poached Egg.  Basmati Rice.  Quick-Pickled Kirby Cucumbers.</p>

@@ -15,8 +15,8 @@ categories:
 tags: []
 comments: []
 ---
-<p><a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;phy5ics&#47;4838051130&#47;" title="photo sharing"><img src="http:&#47;&#47;farm5.static.flickr.com&#47;4129&#47;4838051130_051ac4e55b.jpg" style="border: solid 2px #000000;" alt="" &#47;></a>
-<&#47;p>
+<p><a href="http://www.flickr.com/photos/phy5ics/4838051130/" title="photo sharing"><img src="http://farm5.static.flickr.com/4129/4838051130_051ac4e55b.jpg" style="border: solid 2px #000000;" alt="" /></a>
+</p>
 <p>
 Fried Eggs with Bacon Black Beans, Garlic Rice.
-<&#47;p>
+</p>

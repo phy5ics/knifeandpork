@@ -15,12 +15,12 @@ categories:
 tags: []
 comments: []
 ---
-<a title="Sous Vide Chicken Breast with Truffle Butter, Corn Pudding and Wilted Spinach by phy5ics, on Flickr" href="http:&#47;&#47;www.flickr.com&#47;photos&#47;phy5ics&#47;5186741476&#47;"><img src="http:&#47;&#47;farm5.static.flickr.com&#47;4125&#47;5186741476_1a6ac0720e.jpg" alt="Sous Vide Chicken Breast with Truffle Butter, Corn Pudding and Wilted Spinach" width="500" height="333" &#47;></a>
+<a title="Sous Vide Chicken Breast with Truffle Butter, Corn Pudding and Wilted Spinach by phy5ics, on Flickr" href="http://www.flickr.com/photos/phy5ics/5186741476/"><img src="http://farm5.static.flickr.com/4125/5186741476_1a6ac0720e.jpg" alt="Sous Vide Chicken Breast with Truffle Butter, Corn Pudding and Wilted Spinach" width="500" height="333" /></a>
 
 Sous Vide Chicken Breast with Truffle Butter, Corn Pudding and Wilted Spinach.
 
 The second experiment with the Sous Vide Supreme, and another masterpiece.  The chicken was cooked with nothing but a bit salt, pepper and some amazing truffle butter.  It didn't really need anything else at all.  Well, other than the shiitake mushroom-shallot sauce that I topped it with.
 
-<a title="Sous Vide Chicken with Truffle Butter, Corn Pudding and Wilted Spinach by phy5ics, on Flickr" href="http:&#47;&#47;www.flickr.com&#47;photos&#47;phy5ics&#47;5186747702&#47;"><img src="http:&#47;&#47;farm2.static.flickr.com&#47;1014&#47;5186747702_09c45871b1.jpg" alt="Sous Vide Chicken with Truffle Butter, Corn Pudding and Wilted Spinach" width="500" height="333" &#47;></a>
+<a title="Sous Vide Chicken with Truffle Butter, Corn Pudding and Wilted Spinach by phy5ics, on Flickr" href="http://www.flickr.com/photos/phy5ics/5186747702/"><img src="http://farm2.static.flickr.com/1014/5186747702_09c45871b1.jpg" alt="Sous Vide Chicken with Truffle Butter, Corn Pudding and Wilted Spinach" width="500" height="333" /></a>
 
 A photo opportunity.

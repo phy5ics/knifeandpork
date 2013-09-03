@@ -15,4 +15,4 @@ categories:
 tags: []
 comments: []
 ---
-<a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;phy5ics&#47;4867849802&#47;" title="L1010421 by phy5ics, on Flickr"><img src="http:&#47;&#47;farm5.static.flickr.com&#47;4141&#47;4867849802_0fe8096236.jpg" width="500" height="336" alt="L1010421" &#47;></a>
+<a href="http://www.flickr.com/photos/phy5ics/4867849802/" title="L1010421 by phy5ics, on Flickr"><img src="http://farm5.static.flickr.com/4141/4867849802_0fe8096236.jpg" width="500" height="336" alt="L1010421" /></a>

@@ -24,11 +24,11 @@ comments:
     MjAxMS0wNC0xMCAyMDowMDoxOSAtMDQwMA==
   content: Thanks!  What wonderful photos of a hallowed place!
 ---
-<a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;phy5ics&#47;5604599108&#47;" title="Cooking with Julia by phy5ics, on Flickr"><img src="http:&#47;&#47;farm6.static.flickr.com&#47;5269&#47;5604599108_75c6085e9d.jpg" width="500" height="333" alt="Cooking with Julia"></a>
+<a href="http://www.flickr.com/photos/phy5ics/5604599108/" title="Cooking with Julia by phy5ics, on Flickr"><img src="http://farm6.static.flickr.com/5269/5604599108_75c6085e9d.jpg" width="500" height="333" alt="Cooking with Julia"></a>
 
-<a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;phy5ics&#47;5604004391&#47;" title="Cooking with Julia by phy5ics, on Flickr"><img src="http:&#47;&#47;farm5.static.flickr.com&#47;4103&#47;5604004391_3442226282.jpg" width="500" height="333" alt="Cooking with Julia"></a>
+<a href="http://www.flickr.com/photos/phy5ics/5604004391/" title="Cooking with Julia by phy5ics, on Flickr"><img src="http://farm5.static.flickr.com/4103/5604004391_3442226282.jpg" width="500" height="333" alt="Cooking with Julia"></a>
 
-<a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;phy5ics&#47;5604585592&#47;" title="Copper Pans by phy5ics, on Flickr"><img src="http:&#47;&#47;farm6.static.flickr.com&#47;5223&#47;5604585592_057359f17c.jpg" width="500" height="333" alt="Copper Pans"></a>
+<a href="http://www.flickr.com/photos/phy5ics/5604585592/" title="Copper Pans by phy5ics, on Flickr"><img src="http://farm6.static.flickr.com/5223/5604585592_057359f17c.jpg" width="500" height="333" alt="Copper Pans"></a>
 
-<a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;phy5ics&#47;5604019461&#47;" title="Gratitude by phy5ics, on Flickr"><img src="http:&#47;&#47;farm6.static.flickr.com&#47;5265&#47;5604019461_9d3bd95425.jpg" width="500" height="333" alt="Gratitude"></a>
+<a href="http://www.flickr.com/photos/phy5ics/5604019461/" title="Gratitude by phy5ics, on Flickr"><img src="http://farm6.static.flickr.com/5265/5604019461_9d3bd95425.jpg" width="500" height="333" alt="Gratitude"></a>
 

@@ -15,5 +15,5 @@ categories:
 tags: []
 comments: []
 ---
-<a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;phy5ics&#47;5369588105&#47;" title="Sesame Steak Tacos with Shiitake Mushrooms, Cilantro and Asian Green Salad by phy5ics, on Flickr"><img src="http:&#47;&#47;farm6.static.flickr.com&#47;5282&#47;5369588105_a2a84fdf40.jpg" width="500" height="333" alt="Sesame Steak Tacos with Shiitake Mushrooms, Cilantro and Asian Green Salad" &#47;></a>
+<a href="http://www.flickr.com/photos/phy5ics/5369588105/" title="Sesame Steak Tacos with Shiitake Mushrooms, Cilantro and Asian Green Salad by phy5ics, on Flickr"><img src="http://farm6.static.flickr.com/5282/5369588105_a2a84fdf40.jpg" width="500" height="333" alt="Sesame Steak Tacos with Shiitake Mushrooms, Cilantro and Asian Green Salad" /></a>
 Unfortunately, this was dinner alone with the lady out of town.  The upside was that it took all of fifteen minutes to make.

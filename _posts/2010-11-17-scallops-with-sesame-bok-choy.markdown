@@ -15,14 +15,14 @@ categories:
 tags: []
 comments: []
 ---
-<a title="Bok Choy by phy5ics, on Flickr" href="http:&#47;&#47;www.flickr.com&#47;photos&#47;phy5ics&#47;5174244184&#47;"><img src="http:&#47;&#47;farm5.static.flickr.com&#47;4130&#47;5174244184_24a16a015d.jpg" alt="Bok Choy" width="500" height="333" &#47;></a>
+<a title="Bok Choy by phy5ics, on Flickr" href="http://www.flickr.com/photos/phy5ics/5174244184/"><img src="http://farm5.static.flickr.com/4130/5174244184_24a16a015d.jpg" alt="Bok Choy" width="500" height="333" /></a>
 
 Stir-frying the baby bok choy in a bit of sesame oil.
 
-<a title="Prep by phy5ics, on Flickr" href="http:&#47;&#47;www.flickr.com&#47;photos&#47;phy5ics&#47;5173639601&#47;"><img src="http:&#47;&#47;farm5.static.flickr.com&#47;4103&#47;5173639601_ab47f30511.jpg" alt="Prep" width="500" height="333" &#47;></a>
+<a title="Prep by phy5ics, on Flickr" href="http://www.flickr.com/photos/phy5ics/5173639601/"><img src="http://farm5.static.flickr.com/4103/5173639601_ab47f30511.jpg" alt="Prep" width="500" height="333" /></a>
 
 Prepping the scallops and finishings.
 
-<a title="Scallops with Sesame Bok Choy and Sweet Potato with Miso Scallion Butter by phy5ics, on Flickr" href="http:&#47;&#47;www.flickr.com&#47;photos&#47;phy5ics&#47;5174245464&#47;"><img src="http:&#47;&#47;farm5.static.flickr.com&#47;4126&#47;5174245464_0bc7a996f2.jpg" alt="Scallops with Sesame Bok Choy and Sweet Potato with Miso Scallion Butter" width="500" height="333" &#47;></a>
+<a title="Scallops with Sesame Bok Choy and Sweet Potato with Miso Scallion Butter by phy5ics, on Flickr" href="http://www.flickr.com/photos/phy5ics/5174245464/"><img src="http://farm5.static.flickr.com/4126/5174245464_0bc7a996f2.jpg" alt="Scallops with Sesame Bok Choy and Sweet Potato with Miso Scallion Butter" width="500" height="333" /></a>
 
 Scallops with Sesame Bok Choy and Sweet Potato with Miso Scallion Butter

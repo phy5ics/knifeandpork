@@ -15,8 +15,8 @@ categories:
 tags: []
 comments: []
 ---
-<a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;phy5ics&#47;5411829654&#47;" title="Pear Upside-Down Cake by phy5ics, on Flickr"><img src="http:&#47;&#47;farm5.static.flickr.com&#47;4104&#47;5411829654_7ee12d4b34.jpg" width="500" height="333" alt="Pear Upside-Down Cake" &#47;></a>
+<a href="http://www.flickr.com/photos/phy5ics/5411829654/" title="Pear Upside-Down Cake by phy5ics, on Flickr"><img src="http://farm5.static.flickr.com/4104/5411829654_7ee12d4b34.jpg" width="500" height="333" alt="Pear Upside-Down Cake" /></a>
 Just out of the oven and flipped over.
 
-<a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;phy5ics&#47;5411221383&#47;" title="Pear Upside-Down Cake by phy5ics, on Flickr"><img src="http:&#47;&#47;farm5.static.flickr.com&#47;4075&#47;5411221383_951d2aecca.jpg" width="500" height="333" alt="Pear Upside-Down Cake" &#47;></a>
+<a href="http://www.flickr.com/photos/phy5ics/5411221383/" title="Pear Upside-Down Cake by phy5ics, on Flickr"><img src="http://farm5.static.flickr.com/4075/5411221383_951d2aecca.jpg" width="500" height="333" alt="Pear Upside-Down Cake" /></a>
 A little hand-whipped whipped-cream makes (almost) everything better.

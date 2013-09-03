@@ -15,5 +15,5 @@ categories:
 tags: []
 comments: []
 ---
-<a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;phy5ics&#47;5411166267&#47;" title="Triple-Meat and Shiitake Ragu with Creamy Polenta and Basil by phy5ics, on Flickr"><img src="http:&#47;&#47;farm5.static.flickr.com&#47;4112&#47;5411166267_108c635445.jpg" width="500" height="333" alt="Triple-Meat and Shiitake Ragu with Creamy Polenta and Basil" &#47;></a>
+<a href="http://www.flickr.com/photos/phy5ics/5411166267/" title="Triple-Meat and Shiitake Ragu with Creamy Polenta and Basil by phy5ics, on Flickr"><img src="http://farm5.static.flickr.com/4112/5411166267_108c635445.jpg" width="500" height="333" alt="Triple-Meat and Shiitake Ragu with Creamy Polenta and Basil" /></a>
 Very comforting on a cold, snowy night in Brooklyn.

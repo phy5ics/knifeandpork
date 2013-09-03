@@ -15,4 +15,4 @@ categories:
 tags: []
 comments: []
 ---
-<a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;phy5ics&#47;5190976645&#47;" title="Sausage Ragu by phy5ics, on Flickr"><img src="http:&#47;&#47;farm5.static.flickr.com&#47;4152&#47;5190976645_075e68a24f.jpg" width="500" height="333" alt="Sausage Ragu" &#47;></a>
+<a href="http://www.flickr.com/photos/phy5ics/5190976645/" title="Sausage Ragu by phy5ics, on Flickr"><img src="http://farm5.static.flickr.com/4152/5190976645_075e68a24f.jpg" width="500" height="333" alt="Sausage Ragu" /></a>

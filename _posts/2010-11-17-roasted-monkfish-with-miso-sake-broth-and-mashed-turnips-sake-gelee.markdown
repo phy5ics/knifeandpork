@@ -15,10 +15,10 @@ categories:
 tags: []
 comments: []
 ---
-<a title="Roasted Monkfish with Miso&#47;Sake Broth and Mashed Turnips by phy5ics, on Flickr" href="http:&#47;&#47;www.flickr.com&#47;photos&#47;phy5ics&#47;5173635247&#47;"><img src="http:&#47;&#47;farm5.static.flickr.com&#47;4088&#47;5173635247_ce1f58a2d5.jpg" alt="Roasted Monkfish with Miso&#47;Sake Broth and Mashed Turnips" width="500" height="333" &#47;></a>
+<a title="Roasted Monkfish with Miso/Sake Broth and Mashed Turnips by phy5ics, on Flickr" href="http://www.flickr.com/photos/phy5ics/5173635247/"><img src="http://farm5.static.flickr.com/4088/5173635247_ce1f58a2d5.jpg" alt="Roasted Monkfish with Miso/Sake Broth and Mashed Turnips" width="500" height="333" /></a>
 
 Roasted Monkfish with Miso-Sake Broth and Mashed Turnips; Sake Gelee.  "A perfect 10", according to my live-in food critic.  The mushrooms atop the monkfish are the ever-elusive hon-shimeiji.
 
-<a title="Sake Gelee by phy5ics, on Flickr" href="http:&#47;&#47;www.flickr.com&#47;photos&#47;phy5ics&#47;5173634651&#47;"><img src="http:&#47;&#47;farm5.static.flickr.com&#47;4110&#47;5173634651_0f4907bc02.jpg" alt="Sake Gelee" width="500" height="333" &#47;></a>
+<a title="Sake Gelee by phy5ics, on Flickr" href="http://www.flickr.com/photos/phy5ics/5173634651/"><img src="http://farm5.static.flickr.com/4110/5173634651_0f4907bc02.jpg" alt="Sake Gelee" width="500" height="333" /></a>
 
 Cubism at its finest.  Sake gelee awaiting the main dish...

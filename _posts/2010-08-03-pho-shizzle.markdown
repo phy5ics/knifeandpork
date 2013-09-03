@@ -24,5 +24,5 @@ comments:
     MjAxMC0wOC0wNSAwODowNTozNCAtMDQwMA==
   content: you are the best. just what the doctor ordered.
 ---
-<p><a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;phy5ics&#47;4858794727&#47;" title="Pho Shizzle by phy5ics, on Flickr"><img src="http:&#47;&#47;farm5.static.flickr.com&#47;4143&#47;4858794727_d2c04278d7.jpg" width="500" height="336" alt="Pho Shizzle" &#47;></a><&#47;p>
-<p>Homemade Pho with organic sirloin.<&#47;p>
+<p><a href="http://www.flickr.com/photos/phy5ics/4858794727/" title="Pho Shizzle by phy5ics, on Flickr"><img src="http://farm5.static.flickr.com/4143/4858794727_d2c04278d7.jpg" width="500" height="336" alt="Pho Shizzle" /></a></p>
+<p>Homemade Pho with organic sirloin.</p>

@@ -15,5 +15,5 @@ categories:
 tags: []
 comments: []
 ---
-<p><a title="Smoked Pork Loin with Calvados Sauce and Apples; Apple Potato Pancakes with Creme Fraiche by phy5ics, on Flickr" href="http:&#47;&#47;www.flickr.com&#47;photos&#47;phy5ics&#47;5186112501&#47;"><img src="http:&#47;&#47;farm2.static.flickr.com&#47;1005&#47;5186112501_5e4378ee63.jpg" alt="Smoked Pork Loin with Calvados Sauce and Apples; Apple Potato Pancakes with Creme Fraiche" width="500" height="336" &#47;></a><&#47;p>
-<p>Smoked Pork Loin with Calvados Sauce and Apples; Apple Potato Pancakes with Creme Fraiche<&#47;p>
+<p><a title="Smoked Pork Loin with Calvados Sauce and Apples; Apple Potato Pancakes with Creme Fraiche by phy5ics, on Flickr" href="http://www.flickr.com/photos/phy5ics/5186112501/"><img src="http://farm2.static.flickr.com/1005/5186112501_5e4378ee63.jpg" alt="Smoked Pork Loin with Calvados Sauce and Apples; Apple Potato Pancakes with Creme Fraiche" width="500" height="336" /></a></p>
+<p>Smoked Pork Loin with Calvados Sauce and Apples; Apple Potato Pancakes with Creme Fraiche</p>

@@ -15,7 +15,7 @@ categories:
 tags: []
 comments: []
 ---
-<a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;phy5ics&#47;4824919075&#47;" title="photo sharing"><img src="http:&#47;&#47;farm5.static.flickr.com&#47;4077&#47;4824919075_ffcb5413db.jpg" alt="" style="border: solid 2px #000000;" &#47;></a>
+<a href="http://www.flickr.com/photos/phy5ics/4824919075/" title="photo sharing"><img src="http://farm5.static.flickr.com/4077/4824919075_ffcb5413db.jpg" alt="" style="border: solid 2px #000000;" /></a>
 <p>
 Grilled Moroccan-Spiced Lamb Kebabs. Grilled Apricots and Red Onion. Cucumber Raita and Tomato Salad. Cilantro Couscous.
-<&#47;p>
+</p>

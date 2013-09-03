@@ -15,5 +15,5 @@ categories:
 tags: []
 comments: []
 ---
-<a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;phy5ics&#47;5411225653&#47;" title="Pork and Chili Goulash by phy5ics, on Flickr"><img src="http:&#47;&#47;farm6.static.flickr.com&#47;5180&#47;5411225653_91eca2ceda.jpg" width="500" height="333" alt="Pork and Chili Goulash" &#47;></a>
+<a href="http://www.flickr.com/photos/phy5ics/5411225653/" title="Pork and Chili Goulash by phy5ics, on Flickr"><img src="http://farm6.static.flickr.com/5180/5411225653_91eca2ceda.jpg" width="500" height="333" alt="Pork and Chili Goulash" /></a>
 An old Hungarian favorite updated with a bit of a curve ball in the form of braised pork shoulder and jalapenos.

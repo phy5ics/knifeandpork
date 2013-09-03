@@ -15,4 +15,4 @@ categories:
 tags: []
 comments: []
 ---
-<a title="photo sharing" href="http:&#47;&#47;www.flickr.com&#47;photos&#47;phy5ics&#47;5484240277&#47;"><img src="http:&#47;&#47;farm6.static.flickr.com&#47;5296&#47;5484240277_e8013c7929.jpg" alt="" &#47;></a>
+<a title="photo sharing" href="http://www.flickr.com/photos/phy5ics/5484240277/"><img src="http://farm6.static.flickr.com/5296/5484240277_e8013c7929.jpg" alt="" /></a>

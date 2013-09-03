@@ -15,5 +15,5 @@ categories:
 tags: []
 comments: []
 ---
-<p><a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;phy5ics&#47;5090907881&#47;" title="Bulgogi by phy5ics, on Flickr"><img src="http:&#47;&#47;farm5.static.flickr.com&#47;4128&#47;5090907881_29318fcc45.jpg" width="500" height="336" alt="Bulgogi" &#47;></a><&#47;p>
-<p>Flank Steak Bulgogi with Sesame Salt; Mixed Greens with Ssamjang Dressing<&#47;p>
+<p><a href="http://www.flickr.com/photos/phy5ics/5090907881/" title="Bulgogi by phy5ics, on Flickr"><img src="http://farm5.static.flickr.com/4128/5090907881_29318fcc45.jpg" width="500" height="336" alt="Bulgogi" /></a></p>
+<p>Flank Steak Bulgogi with Sesame Salt; Mixed Greens with Ssamjang Dressing</p>
