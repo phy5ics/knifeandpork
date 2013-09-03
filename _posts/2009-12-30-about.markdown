@@ -1,0 +1,28 @@
+---
+layout: page
+status: publish
+published: true
+title: About
+author: Barton
+author_login: admin
+author_email: jb@knifeandpork.com
+author_url: http://knifeandpork.com/
+wordpress_id: 2
+wordpress_url: http://knifeandpig.barton.fm/?page_id=2
+date: 2009-12-30 10:48:19.000000000 -05:00
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<h1>About<&#47;h1>
+
+<a title="An auspicious end and also a new beginning (as dinner) #2 by phy5ics, on Flickr" href="http:&#47;&#47;www.flickr.com&#47;photos&#47;phy5ics&#47;3227652074&#47;"><img src="http:&#47;&#47;farm4.static.flickr.com&#47;3313&#47;3227652074_4a78c64700.jpg" alt="An auspicious end and also a new beginning (as dinner) #2" width="600" height="600" &#47;></a>
+
+Food has long played a central role in my familial interactions.  Family gatherings have brought us together to confront life's most pressing questions such as the definition of a true hamburger, the age-old question of whether or not beans belong in chili, an elusive family recipes for kolaches or the most recent gains in a pursuit of the perfect Chicago-style deep dish pizza crust.  While many debates become heated they seldom result in a definitive answer.  As we nestle in, elbow-to-elbow to sup, we immediately set about talking about our next meal before the current dishes have even cleared the table.
+
+That upbringing, combined with baking bread and pastries for Whole Foods before moving over to Beer and Wine Buyer, running a health food company and working in the kitchen at Chicago's <em>a tavola<&#47;em> provided an in-depth education in the art of food and drink.  Switching over to sitting in front of a computer for hours on end as a designer and developer wasn't an easy shift, but certainly is more lucrative.
+
+With that background, it shouldn't be surprising that there are two things that I really love - cooking and photography.  Well, actually there's four: my girlfriend and our dog being the two additions to that list.  That and their hungry, emaciated stares as I slave away in front of the stove prod with a certain encouragement.  Then, their delighted looks when I do eventually get dinner to the table are almost as rewarding as the act of eating itself.
+
+This project for 2010 is going to involve a much more organized approach to documenting what I cook rather than the haphazard photos I post on Flickr and the illegible scrawl in a Moleskine.&Acirc;&nbsp; I imagine I'll still keep the Moleskine, but I have noticed that it is rather difficult to share that with family and friends since fax machines apparently don't exist anymore.  Enjoy.
